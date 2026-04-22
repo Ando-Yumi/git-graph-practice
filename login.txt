@@ -1,1 +1,2 @@
 step1: create login form
+step2: validate password
